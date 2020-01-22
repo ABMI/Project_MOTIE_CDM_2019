@@ -1,4 +1,4 @@
-## [CDM Project] 2019-2022 Technology development on CDM based biohealth integrated data network extension (MOTIE)
+## [Project] 2019-2022 Technology development on CDM based biohealth integrated data network extension (MOTIE)
 
 * Project Instructor : Rae Woong Park, MD, Ph.D 
 * Directer : Seongwon Lee, Ph.D 
