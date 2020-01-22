@@ -1,6 +1,4 @@
-## Git for CDM Project 2019-2022 ###   
-
-------
+## Git for CDM Project 2019-2022
 
 ### **Technology development on CDM based biohealth integrated data network extension (MOTIE)**
 
