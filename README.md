@@ -4,4 +4,4 @@
 * Manager (Colligation) : Seongwon Lee, Ph.D 
 * Manager (Technology) : Myunghoon Jeon, Ph.D
 * Manager (Administration) : Ji Young Hwang, EMT-P, Ph.D
-* Researcher : Jeongeun Park, M.S, Suhyun Lee, M.S
+* Researcher : Suhyun Lee, M.S
